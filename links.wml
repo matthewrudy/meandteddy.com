@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//PHONE.COM//DTD WML 1.1//EN" "http://www.phone.com/dtd/wml11.dtd">
+<wml>
+    <card id="main" title="O2 Create">
+        <p>Here are your videos:</p>
+        <p><a href="http://www.google.com/videos/blahFadw/video.wap_high">High quality</a></p>
+        <p><a href="http://www.google.com/videos/blahFadw/video.wap_low">Low quality</a></p>
+    </card>
+</wml>

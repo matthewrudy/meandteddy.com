@@ -1,0 +1,43 @@
+<div class="page">
+About Me
+</div>
+
+<div class="heading"><strong>Matthew Rudy Jacobs</strong> | = ME</div>
+
+<div class="entry">
+
+I don't overly like writing about myself.
+
+I guess I'll have to some time soon.
+</div>
+
+<div class="heading"><strong>Music</strong> | "nah, I don't care no more"</div>
+
+<div class="entry">
+There once was a time when Music and I were inseperable.<br>
+To be honest, it was largely a lie.<br>
+<br>
+I spent several years just listening to Oasis, then just to Nirvana, then some mixture of Mogwai and Godspeed You Black Emperor.<br>
+<br>
+That was a long time ago now.
+<hr>
+<a href="http://www.folkmanis.com/index.html"><img src="http://www.folkmanis.com/imagefilesA/owlsnowy.JPG" align=right></a><strong>My First Composition:</strong><br>
+<a href="http://www.cosmicharmony.com/LightWorkers/LittleOwl/LittleOwl.htm">Little Owl</a><br>
+<i>Little Owl says "Hello"</i>: CCGGABC<br>
+<i>Little Owl says "Goodbye"</i>: CCDDEFG<br>
+<i>Little Owl says "Goodbye"</i>: CCDDEFG<br>
+<i>and "Hello"</i>: G BC<br>
+<br>
+Yeah, that was good.<br>
+Still know it by heart.<br>
+<br>
+<strong>My First Musical Purchase:</strong><br>
+My first tape based single was "Jazzy Jeff and the Fresh Prince: Summertime / Boom! Shake the Room", but I didn't buy it, <a href="http://www.bagelz.org">Raffi</a> did.<br>
+<br>
+The first tape I bought was "Simply Red: Fairground"<br>
+Unless it was "Technohead: I want to be a hippy", but that was in the Woolworths bargain bin.<br>
+<hr>
+Now, I don't really listen to anything, except some Dizzy, Ice Cube, Felix, Daft Punk and Sascha Funke.<br>
+<br>
+I just don't care any more.
+</div>

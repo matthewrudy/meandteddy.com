@@ -1,0 +1,175 @@
+body {background-image: url(04june06/back2.gif)}
+body {background-repeat: repeat-x}
+body {background-color: black}
+body {background-position: 100% 201px}
+body {font-family: "Myriad Pro", Arial, sans-serif}
+
+
+#top {height:315px}
+#top {background-image: url(04june06/topback2.gif)}
+#top {background-repeat: no-repeat}
+#top {background-position: top right}
+
+/* set default margin and padding to 0px */
+
+div, body, p, h1 {margin:0px}
+div, body, p, h1 {padding:0px}
+
+#content {width:650px}
+#content {float: right}
+
+
+/* Top Format Styles */
+
+#top h1 {text-align: right}
+#top h1 {position: relative}
+#top h1 {font-weight: bold}
+#top h1 {top: 15px}
+#top h1 {right:675px}
+#top h1 {font-size: 60pt}
+#top h1 {color: #D1BAE0}
+#top h1 {line-height: 100%}
+
+#top .navbar {position: absolute}
+#top .navbar {text-align: left}
+#top .navbar {left:x-650px}
+#top .navbar {top: 15px}
+#top .navbar {font-weight: bold}
+#top .navbar {font-size: 36pt}
+#top .navbar {color: #c3ffcf}
+#top .navbar {line-height: 90%}
+
+/* Post Format Styles */
+
+#content .post {border: 7px solid #c3ffcf}
+#content .post {margin-right: 70px}
+#content .post {margin-bottom: 10px}
+#content .post {padding: 12px 16px 12px 16px}
+
+#content .post .inner {margin: 0px}
+#content .post .inner {padding: 16px 16px 12px 16px}
+
+#content .post .heading {background-image: url(04june06/heading-bottom-dots.gif)}
+#content .post .heading {background-repeat: no-repeat}
+#content .post .heading {background-position: bottom center}
+#content .post .heading {margin:0px}
+#content .post .heading {border: 0px}
+
+#content .post .heading {padding: 2px 8px 16px 8px}
+#content .post .heading {margin-bottom: 9px}
+#content .post .heading {vertical-align: bottom}
+
+#content .post .entry {margin:0px}
+#content .post .entry {border: 0px solid #a7ddb3}
+#content .post .entry {padding: 8px 12px 12px 12px}
+
+
+/* Post Font Styles */
+
+
+#content .post .heading {font-weight: bold}
+
+#content .post .heading .title {font-size: 16pt}
+#content .post .heading .title {text-align: left}
+
+
+
+#content .post .entry .date {font-size: 8pt}
+
+
+#content .post .entry {font-weight: bold}
+#content .post .entry {clear: both}
+#content .post .entry {font-size: 10pt}
+
+/* Post Colour information */
+
+#content .greenpost .heading .title {color: #c7ffc7}
+#content .greenpost .entry .date {color: #eefff3}
+#content .greenpost .entry {color: #69aa6d}
+#content .greenpost {border-color: #C2FFC3}
+
+#content .greenpost {background-color: #3c8241}
+#content .greenpost .inner {background-color: #8ac496}
+#content .greenpost .entry {background-color: #aae7ae}
+
+
+
+.bluepost .heading .title {color: #cbf3ff}
+.bluepost .entry .date {color: #f5fdfd}
+.bluepost .entry {color: #6e9aaa}
+.bluepost {border-color: #C2F4FF}
+
+.bluepost {background-color: #3c717d}
+.bluepost .inner {background-color: #8abac7}
+.bluepost .entry {background-color: #aedbeb}
+
+
+
+.pinkpost .heading .title {color: #fbdbff}
+.pinkpost .entry .date {color: #fff7ff}
+.pinkpost .entry {color: #a67ead}
+.pinkpost {border-color: #F3C2FF}
+
+.pinkpost {background-color: #753c7d}
+.pinkpost .inner {background-color: #be96c7}
+.pinkpost .entry {background-color: #e7beef}
+
+
+/* Guestbook Formatting */
+
+#guestbook {position: absolute}
+#guestbook {right: 675px}
+#guestbook {width: 224px}  /* 210 + 7 either side */
+#guestbook {height: auto}  /* switch for 615px */
+#guestbook {max-width: 210px}
+#guestbook {padding: 10px 10px 10px 5px}
+#guestbook {top: 315px}
+#guestbook {background-color: #8ec775}
+#guestbook {border: 7px solid #c3ffcf}
+#guestbook .post {padding: 8px 10px 16px 10px}
+#guestbook .post {margin-bottom: 11px}
+
+#guestbook h1 {background-image: url(04june06/guestbook-bottom-dots.gif)}
+#guestbook h1 {background-repeat: no-repeat}
+#guestbook h1 {background-position: bottom center}
+#guestbook h1 {margin:0px}
+#guestbook h1 {padding-bottom: 16px}
+
+
+#guestbook h1 {margin-bottom: 9px}
+
+
+
+
+
+/* Guestbook Font */
+
+#guestbook h1 {color: #083028}
+#guestbook h1 {text-align: center}
+#guestbook h1 {font-weight: bold}
+#guestbook h1 {font-size: 26pt}
+#guestbook {color: #black}
+#guestbook .post {font-size: 10pt}
+#guestbook .post .heading .title {color: black}
+
+#guestbook .post .heading .title {font-weight: bold}
+
+/* Guestbook Colouring */
+
+#guestbook .greenpost {background-color: #a2db96}
+#guestbook .bluepost {background-color: #a6cbd7}
+#guestbook .pinkpost {background-color: #baa6ba}
+
+#guestbook .greenpost .title, #guestbook .greenpost .entry, 
+#guestbook .bluepost .title, #guestbook .bluepost .entry, 
+#guestbook .pinkpost .title, #guestbook .pinkpost .entry {background-color: transparent}
+
+#guestbook .greenpost .date {color: #e2f3df}
+#guestbook .bluepost .date  {color: #ebf3f7}
+#guestbook .pinkpost  .date {color: #eee9ee}
+
+#guestbook .greenpost .entry {color: #08552c}
+#guestbook .bluepost  .entry {color: #112458}
+#guestbook .pinkpost  .entry {color: #61205d}
+
+

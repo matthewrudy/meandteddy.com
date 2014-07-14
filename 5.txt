@@ -1,0 +1,63 @@
+<div class="page">My Guestbook</div>
+<div class="heading"><strong>Post your own comment</strong></div>
+
+
+<div class="entry"><img src="images/misc/guestbook1.jpg" align=left>
+
+<div style="position:relative; left:47px"><form name="guestbook" method="POST" action="testhuman.php"><strong>Name:</strong><br> <input type="text" name="name" tabindex=1 style="width:150px;"><br>
+<strong>Title:</strong><br> <input type="text" name="title" tabindex=2 style="width:300px;border:1px solid #611;padding:2px"><br>
+<strong>Stuff:</strong><br><textarea name="entry" tabindex=3 rows="5" cols="40" style="width:300px"></textarea><br>
+
+
+<input 
+	type="submit" 
+	name="Submit" 
+	value="Send it to me" 
+	tabindex=4 
+	
+	style="	margin-top: 5px;
+		color:#611;	
+		background-color:#FFFFFF;
+		font-size: 17px;
+		text-align: left;
+		border:1px solid #611;
+		width:150px;
+		text-align:center
+	">
+
+</div></div>
+
+
+<div class="heading"><strong>Just to start things off</strong> | Matthew Rudy Jacobs</div> <div class="entry">I wrote this, just so you don't have to feel embarrassed about being the first person.<br />
+<br />
+Diss me if you wish.</div><div class="heading"><strong>Mr.</strong> | Jan</div> <div class="entry">STYLE</div><div class="heading"><strong>Queen of Cannock</strong> | Miss Gemma</div> <div class="entry">Me siento muy honrado para escribir en un guestbook tan estimado. Baba Nam  Kevalam-¡La esencia del amor es por todas partes recuerda eso!</div><div class="heading"><strong>Yeah....</strong> | Babelfish</div> <div class="entry">I feel very honest to write in guestbook so considered. Dribble Nam Kevalam- the essence of the love is throughout remembers that!</div><div class="heading"><strong>Just to say hi (plus I was told to)</strong> | Christopher John Saunders BA (Hons)</div> <div class="entry">Erm...yeah, erm...hi. Not sure what to put really. Like the Neighbours review. Was quite surprised there was no pictures of me at MY OWN party. Oh well! Es muy bien Mr J</div><div class="heading"><strong>Your website - obviously</strong> | Alice</div> <div class="entry">Magnanimous - my favourite line is 'Alice is a whore'.</div><div class="heading"><strong>am I supposed to put the title of this message or the title of myself?</strong> | DC</div> <div class="entry">Nice site Rudy; is that picture in the University Centre library/common room on the top floor?</div><div class="heading"><strong>Title? how about... the PIMP? that sounds cool... otherwise "Sir" or "The Honourable" will do too...</strong> | DC again</div> <div class="entry">I wonder what happens when the title gets too long... does it go on another line?<br />
+<br />
+anywayz, MRJ just corrected me there - the photo's supposed to be CCR, during the first england football game in june...<br />
+<br />
+by the way, just to add: "Danny Chan is a pimp." (as quoted from the "Films" section of the site) - Well said. Much appreciated.</div>
+
+
+<div class="heading"><strong>Mr. shall suffice.</strong> | Will</div> <div class="entry">Well i'm impressed :)</div><div class="heading"><strong>Ni - ice</strong> | Matthew Iain Roberts</div> <div class="entry">Maths-ing it up<br />
+Nice</div><div class="heading"><strong>Wassup mofo</strong> | K</div> <div class="entry">I've put a link to your page on my website now. Good shit.</div><div class="heading"><strong>Who is K?</strong> | MattyJ</div> <div class="entry">I wish I'd added an email box.<br />
+
+<br />
+But I didn't</div><div class="heading"><strong>I am</strong> | K</div> <div class="entry">You can probably work it out... can't you?</div><div class="heading"><strong>No, I can't</strong> | Merje</div> <div class="entry">No, I can't</div><div class="heading"><strong>films and dreamy grammas</strong> | hannah</div> <div class="entry">right well this isn’t really a comment so much as a reminder <br />
+
+that a deadline is fast approaching. Once again Id like to tell you that you really ought to consider submitting a film to the Ann Arbor film fest: go to it http://www.aafilmfest.org/submissions-enter.htm<br />
+<br />
+on a more appreciative note the photo of your grandma + mom is AMAZING- (secretly I’m completely jealous of your composition)  <br />
+<br />
+let me know if it the film thing pans out.<br />
+<br />
+see you someday,<br />
+-h<br />
+</div><div class="heading"><strong>Webshite</strong> | I P Freely</div> <div class="entry">Nice site... the wallpaper reminds me of actual wallpaper... and not nice wallpaper at that.</div><div class="heading"><strong>The one and only Rich</strong> | McWee</div> <div class="entry">I want to see some proper nice photos of the fun we had in Prague. For some reason I always forget you were there. Sorry.</div><div class="heading"><strong></strong> | </div> <div class="entry"></div><div class="heading"><strong></strong> | </div> <div class="entry"></div><div class="heading"><strong>You Suck</strong> | Neeraj</div> <div class="entry">Man, you used to be great, but what happened? You just fucked off like a tease who shows a bit of himself and then runs away. Well, fuck you! (I like your legs by the way.)</div><div class="heading"><strong>Where are you?</strong> | PooMan</div> <div class="entry">Where the fuck are you man?! I used to live for you man, but I don't know what to do now. What am I going to do? Yeah, well fuck you. Where's my gun?</div><div class="heading"><strong>The News Flasher</strong> | Karol</div> <div class="entry">Plug time...<br />
+
+<br />
+www.thenewsflasher.co.nr</div><div class="heading"><strong>Guestbook Saved from Spammers</strong> | Matthew Rudy</div> <div class="entry">Dear all,<br />
+Luckily I am now back looking after this site.<br />
+For a while it seems that some Spam-bots had got hold of this guestbook.<br />
+They were messing it about,<br />
+posting stuff about Viagra and such.<br />
+So I've added a semi-clever new human-checker to the guestbook.<br />
+Have a go, it's quite fun.<br><br><i style="font-size:12px">Added: 28th of April 06</i></div>
